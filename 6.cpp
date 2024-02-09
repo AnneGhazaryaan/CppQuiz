@@ -1,6 +1,4 @@
-According to the C++17 standard, what is the output of this program?
-
-    
+//According to the C++17 standard, what is the output of this program?
 #include <iostream>
 using namespace std;
 
